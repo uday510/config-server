@@ -5,7 +5,7 @@ accounts:
   message: "Production Environment"
   contactDetails:
     name: "prod"
-    email: "prod@accounts.com"
+    email: "{cipher}c823f6a0091ba190faed86b8679b4bd3d9b7a47d2821c4865b7ec5800d500647b83276152ce7a182ec0d6e9f57dfa4a0"
   onCallSupport:
     - (000)000-0012
     - (000)000-0021
