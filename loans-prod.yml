@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Production Environment"
+  message: "Production Environment (Updated)"
   contactDetails:
     name: "prod"
     email: "prod@loans.com"
