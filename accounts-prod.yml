@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Production Environment (Updated)"
+  message: "Production Environment"
   contactDetails:
     name: "prod"
     email: "{cipher}c823f6a0091ba190faed86b8679b4bd3d9b7a47d2821c4865b7ec5800d500647b83276152ce7a182ec0d6e9f57dfa4a0"
