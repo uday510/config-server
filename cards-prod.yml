@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Production Environment"
+  message: "Production Environment (Updated)"
   contactDetails:
     name: "prod"
     email: "prod@cards.com"
