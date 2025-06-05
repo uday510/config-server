@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Accounts Service"
+  message: "Accounts Service DEFAULT"
   contactDetails:
     name: "Alan Turing"
     email: "alan@turing.com"
